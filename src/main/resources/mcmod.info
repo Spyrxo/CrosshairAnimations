@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "crosshairanimations",
+    "name": "CrosshairAnimations",
+    "description": "Adds specialised cross-hair animations to certain items when being charged-up",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Spyrxo"],
+    "credits": "Spyrxo",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
