@@ -1,5 +1,6 @@
 # CrosshairAnimations Mod // (**Minecraft 1.8.9**)
 ### Mod that renders a custom crosshair which plays an charge-up animation when using your bow!
+![](https://img.shields.io/badge/environment-client-1976d2?style=flat-square) ![](https://img.shields.io/badge/mod%20loader-forge-1976d2?style=flat-square)
 <br />
 
 ## Q&A:
